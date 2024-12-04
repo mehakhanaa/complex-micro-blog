@@ -1,0 +1,7 @@
+package consts
+
+const (
+	CACHE_IMG_CLEAN_STREAM = "CACHE:IMAGE:CLEAN"
+
+	AVATAR_CLEAN_STREAM = "AVATAR:CLEAN"
+)

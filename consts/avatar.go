@@ -1,0 +1,11 @@
+package consts
+
+const (
+	MAX_AVATAR_FILE_SIZE = 1024 * 1024 * 8
+
+	MIN_AVATAR_SIZE = 72
+
+	STANDERED_AVATAR_SIZE = 256
+
+	AVATAR_QUALITY float32 = 80
+)

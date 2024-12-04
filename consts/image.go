@@ -1,0 +1,7 @@
+package consts
+
+const (
+	CACHE_IMAGE_EXPIRE_TIME = 60 * 60 * 24
+
+	CACHE_IMAGE_LIST = "CACHE:IMAGE:LIST"
+)
